@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Typescript | node js | express js
+
+- 💬 Ask me about Backend projects
+
+- 📫 How to reach me: luancoleto@outlook.com or 55+(41)99518-0794
+
+- ⚡ Fun fact: I'm passionate about everithing that involves technology
+
+
+
 <!--
 **LuanColeto/LuanColeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
