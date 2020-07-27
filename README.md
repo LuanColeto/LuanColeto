@@ -6,7 +6,15 @@
 
 - 📫 How to reach me: luancoleto@outlook.com or 55+(41)99518-0794
 
-- ⚡ Fun fact: I'm passionate about everithing that involves technology
+- ⚡ Fun fact: I'm passionate about everything that involves technology
+
+- :star: Favorite techs: 
+  - Node js
+  - Typescript
+  - Express js
+  - MongoDB
+  
+
 
 
 
