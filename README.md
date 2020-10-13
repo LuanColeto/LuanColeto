@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Typescript | node js | express js
+- 🌱 I’m currently improving my skills in node js
 
 - 💬 Ask me about Backend projects
 
