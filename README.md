@@ -18,5 +18,4 @@
 
 ## Social
 
-[![Instagram](https://img.shields.io/badge/@reisdev-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luan.coleto)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-coleto/)
