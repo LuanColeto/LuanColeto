@@ -1,10 +1,10 @@
 # Hello there, I'm Luan! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 
 <a href="https://github.com/LuanColeto">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=reisdev&show_icons=true&theme=dracula">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=LuanColeto&show_icons=true&theme=dracula">
 </a>
 <a href="https://github.com/LuanColeto">
-  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisdev&layout=compact&theme=dracula">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanColeto&layout=compact&theme=dracula">
 </a>
 
 ## Languages, Frameworks and Tools
